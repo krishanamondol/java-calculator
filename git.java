@@ -8,14 +8,14 @@ public static void main(String[] args) {
     int a = sc.nextInt();
     int b = sc.nextInt();
     int sum = (a + b);
-    System.out.println("Value of sum :"+sum);
+    System.out.println("Value of Addition :"+sum);
     int rediuse = (a - b);
-    System.out.println("Value of Reduace :"+rediuse);
+    System.out.println("Value of Subtraction :"+rediuse);
     int multiply = (a * b);
-    System.out.println("Value of Multiply : "+multiply);
+    System.out.println("Value of Multiplication  : "+multiply);
     int devaide =(a / b);
     double myDouble = devaide;
-    System.out.println("Value of Devaide : "+myDouble);
+    System.out.println("Value of Division: "+myDouble);
 
     }
     
