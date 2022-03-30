@@ -2,6 +2,7 @@ import java.util.*;
 public class git {
 public static void main(String[] args) {
     // System.out.println("Well come to learn with mondal");
+    // System.out.println("Git chek push");
     Scanner sc = new Scanner(System.in);
     System.out.println("hello Bangladesh\nIntroduace to digital calcutor system");
     int a = sc.nextInt();
